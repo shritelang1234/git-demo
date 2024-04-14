@@ -1,2 +1,1 @@
-print 'hello world'
-code for 14 april 2024-'Today is Bhim Jayanti'
+print'Hello word today is Bhim Jayanti'
