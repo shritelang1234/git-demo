@@ -1,3 +1,5 @@
 print'Hello word today is Bhim Jayanti'
 This is new code for today-14 April 2024
-'Here we are cheaking 2nd chance for making changes in Lock branch'
+'Here we are cheaking 2nd chance for making changes in Lock branch' in result we got:
+Merging is blocked
+The base branch does not allow updates. Learn more about protected branches.
